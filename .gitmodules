@@ -1,6 +1,6 @@
 [submodule "candle-gcu"]
-	path = candle-gcu
-	url = git@git.enflame.cn:guoqing.bao/candle-gcu.git
+	path = candle
+	url = git@git.enflame.cn:guoqing.bao/candle.git
 	ignore = dirty
 [submodule "ubridge"]
 	path = ubridge
